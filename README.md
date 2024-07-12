@@ -19,6 +19,3 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
-
-Apaixonado por tecnologia, e por mudar a vida das pessoas através da programação.
