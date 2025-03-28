@@ -21,4 +21,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-Portifólio: https://meu-portifolio-coral.vercel.app
+Portifólio: meu-portifolio-coral.vercel.app
