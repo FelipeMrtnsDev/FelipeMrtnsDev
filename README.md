@@ -21,4 +21,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-Portifólio: https://portifolio-ten-drab-63.vercel.app
+Portifólio: <a href="https://portifolio-ten-drab-63.vercel.app" target="_blank">portifolio-ten-drab-63.vercel.app<a>
