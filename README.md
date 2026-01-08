@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=006bed" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=FelipeMrtnsDevB&color=006bed" alt="Views" />
 </div>
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Computador" align="right" width="400px">
 
 # Olá, sou Desenvolvedor Fullstack! 👋
-<br/><br/><br/><br/>
 Sou apaixonado por criar soluções inovadoras e funcionais, com foco no ecossistema JavaScript/TypeScript. Gosto de documentar meu processo ("build in public") e estou sempre explorando novas arquiteturas.
 
 - 🔭 **Trabalhando atualmente:** No desenvolvimento do **Vencera**, um SaaS focado em gestão para barbearias.
