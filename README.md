@@ -80,11 +80,12 @@ Apaixonado por programação desde 2024, com foco em criar soluções inovadoras
 
 <br/>
 
-## ⚡ GitHub Stats
+## 🐍 Minhas Contribuições
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=dracula"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
