@@ -3,15 +3,11 @@
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Computador" align="right" width="400px">
+<br/>
+<br/>
+<br/>
 
 # Olá, sou Desenvolvedor Fullstack! 👋
 Sou apaixonado por criar soluções inovadoras e funcionais, com foco no ecossistema JavaScript/TypeScript. Gosto de documentar meu processo ("build in public") e estou sempre explorando novas arquiteturas.
