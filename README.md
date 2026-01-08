@@ -6,11 +6,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-### Olá, eu sou um Desenvolvedor Fullstack! 👋
+### Olá! Meu nome é Felipe Martins 👋
 
-Apaixonado por programação desde 2024, com foco em criar soluções inovadoras e funcionais. Atualmente estou focado em desenvolver produtos SaaS e construir em público (Build in Public).
+Sou um Desenvolvedor Fullstack apaixonado por programação desde 2024. Atualmente estou focado em desenvolver produtos SaaS, como a **Vencera.io**, e construir em público (Build in Public).
 
-- 🔭 **Projetos Atuais:** Desenvolvendo um **SaaS para Barbearias** e fundando a **Vencera.io**.
+- 🔭 **Projetos Atuais:** Desenvolvendo um **SaaS para Barbearias**.
 - 💻 **Minha Stack:** Especialista em **React, Next.js, Node.js e TypeScript**.
 - ⚙️ **Ambiente:** Usuário de Windows customizado (PowerShell + Oh My Posh + Dracula Theme).
 - 🌱 **Aprendendo:** Arquitetura de Software escalável e estratégias de Marketing para Devs.
@@ -18,11 +18,14 @@ Apaixonado por programação desde 2024, com foco em criar soluções inovadoras
 <br/>
 
 <div align="left">
-  <a href="LINK-DO-SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-martins-3250462a1/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:SEU-EMAIL@GMAIL.COM">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/felipesza._?igsh=NDg2dXM2YThndGw1&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://portifolio-ten-drab-63.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
 </div>
 
@@ -84,8 +87,8 @@ Apaixonado por programação desde 2024, com foco em criar soluções inovadoras
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMrtnsDev/FelipeMrtnsDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeMrtnsDev/FelipeMrtnsDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeMrtnsDev/FelipeMrtnsDev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
