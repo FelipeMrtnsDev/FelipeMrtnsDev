@@ -1,28 +1,68 @@
-### Ola! meu nome é Felipe Martins 👋
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-martins-3250462a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipesza._?igsh=NDg2dXM2YThndGw1&utm_source=qr)
-
-![FelipeMrtnsDev GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMrtnsDev&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=006bed" alt="Views" />
 </div>
 
-<br>
+<br/>
 
-<div>
-    Portifólio: <a href="https://portifolio-ten-drab-63.vercel.app" target="_blank">portifolio-ten-drab-63.vercel.app<a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Computador" align="right" width="400px">
+
+# Olá, sou Desenvolvedor Fullstack! 👋
+
+Sou apaixonado por criar soluções inovadoras e funcionais, com foco no ecossistema JavaScript/TypeScript. Gosto de documentar meu processo ("build in public") e estou sempre explorando novas arquiteturas.
+
+- 🔭 **Trabalhando atualmente:** No desenvolvimento do **Vencera**, um SaaS focado em gestão para barbearias.
+- 🚀 **Minha Stack Principal:** React, Next.js, Node.js e TypeScript.
+- 🌱 **Aprendendo:** Arquitetura de Software escalável e estratégias de SaaS.
+- ⚙️ **Ambiente:** Windows + VS Code + PowerShell (Dracula Theme 🧛).
+
+<br/>
+
+## 🛠️ Tech Stack & Ferramentas
+
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css" alt="Tailwind" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+
+**Backend & Dados**
+<br>
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" />
+
+**DevOps & Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+<img src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=5849BE" alt="Insomnia" />
+
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+<br/>
+
+## 📫 Onde me encontrar
+
+<div align="center">
+  <a href="LINK-DO-SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU-EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
