@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelipeMrtnsDevB&color=006bed" alt="Views" />
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&color=006bed" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=FelipeMrtnsDev&color=006bed" alt="Visitor Counter" />
 </div>
 
 <br/>
