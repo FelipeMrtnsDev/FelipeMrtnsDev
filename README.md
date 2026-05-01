@@ -24,7 +24,7 @@ Sou um Desenvolvedor Fullstack apaixonado por programação desde 2024. Atualmen
   <a href="https://www.instagram.com/felipesza._?igsh=NDg2dXM2YThndGw1&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://felipemrtnsdev-portfolio.vercel.app/" target="_blank">
+  <a href="https://felipemrtnsdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
 </div>
